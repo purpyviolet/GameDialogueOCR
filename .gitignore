@@ -2,3 +2,4 @@ processed_region
 roi_config.npy
 roi_config
 test.ipynb
+flask_ocr_app
